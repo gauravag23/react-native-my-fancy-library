@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-my-fancy-library.git",
-    "baseUrl": "https://github.com/github_account/react-native-my-fancy-library"
+    "url": "git+https://github.com/gauravag23/react-native-my-fancy-library.git",
+    "baseUrl": "https://github.com/gauravag23/react-native-my-fancy-library"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "ga",
+    "email": "ga@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",

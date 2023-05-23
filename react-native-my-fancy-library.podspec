@@ -11,14 +11,14 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   react-native-my-fancy-library
                    DESC
-  s.homepage     = "https://github.com/github_account/react-native-my-fancy-library"
+  s.homepage     = "https://github.com/gauravag23/react-native-my-fancy-library"
   # brief license entry:
   s.license      = "MIT"
   # optional - use expanded license entry instead:
   # s.license    = { :type => "MIT", :file => "LICENSE" }
-  s.authors      = { "Your Name" => "yourname@email.com" }
+  s.authors      = { "Ga" => "ga@gmail.com" }
   s.platforms    = { :ios => "9.0" }
-  s.source       = { :git => "https://github.com/github_account/react-native-my-fancy-library.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/gauravag23/react-native-my-fancy-library.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,c,cc,cpp,m,mm,swift}"
   s.requires_arc = true
